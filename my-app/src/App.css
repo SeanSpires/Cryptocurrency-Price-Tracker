@@ -1,0 +1,39 @@
+.App {
+  text-align: center;
+}
+
+.title {
+  margin-left: auto;
+  margin-right: auto;
+  font-family: arial, sans-serif;
+  font-size: 80px;
+  padding-top: 60px;
+  padding-bottom: 80px;
+}
+
+table, th, td {
+  font-family: arial, sans-serif;
+  width: 100%;
+  border: 1px solid black;
+  border-collapse: collapse;
+  border-spacing: 20px;
+  text-align: left;
+  padding: 8px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+
+#cryptoInfo{
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+
+
+
+
